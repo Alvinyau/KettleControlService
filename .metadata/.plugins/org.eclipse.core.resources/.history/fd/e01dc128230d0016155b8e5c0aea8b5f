@@ -1,0 +1,5 @@
+package com.kensure.kettle.servlet;
+
+public class IndexServlet {
+
+}

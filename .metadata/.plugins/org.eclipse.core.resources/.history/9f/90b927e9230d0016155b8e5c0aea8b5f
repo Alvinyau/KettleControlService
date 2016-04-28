@@ -1,0 +1,5 @@
+package com.kensure.kettle.model;
+
+public class DbRepParams {
+
+}

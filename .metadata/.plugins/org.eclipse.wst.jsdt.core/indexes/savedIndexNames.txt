@@ -1,0 +1,8 @@
+INDEX VERSION 1.3+G:\workspace\KettleControlService\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+4040025505.index
+2139956564.index
+3814695596.index
+1229659604.index
+1999549317.index
+666574730.index
+2412504562.index
